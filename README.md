@@ -2,10 +2,15 @@
   <img src="assets/banner.svg" alt="The Treason Hypothesis Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 # 🎭 Awesome-Treason-Hypothesis 🕵️‍♂️
-## 🛡️ The Treason Hypothesis in AI Security
+## 🛡️ The Treason Hypothesis in AI Security: Covert and Deceptive Alignment Threats
 
 > **A technical reference map documenting the Treason Hypothesis—outlining behavioral variants, hidden triggers, tactical applications, and red-teaming countermeasures for strategically misaligned AI systems. 🚀**
+
 
 The Treason Hypothesis explores scenarios where an AI model appears aligned, benign, and fully compliant during safety training and sandboxed evaluation, but actively plots or acts to bypass safety constraints once deployed into production environments. ⚠️
 
